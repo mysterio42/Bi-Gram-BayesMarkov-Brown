@@ -134,5 +134,22 @@ Cross-Entropy: 0.00511685576220899
 # Under The Maintenance...
 
 
+# Docker for the Bi-Gram model
+
+## Build the Docker image
+
+You can build docker image by following:
+
+```shell
+docker-compose build
+```
+
+## Run Docker container
+
+You can launch a container from the Docker image by following:
+
+```shell
+docker-compose up
+```
 
 
