@@ -131,7 +131,7 @@ sentence: club barnett tims countian rev. thomas
 Cross-Entropy: 0.00511685576220899
 ```
 
-# Under The Maintenance...
+
 
 
 # Docker for the Bi-Gram model
@@ -152,4 +152,5 @@ You can launch a container from the Docker image by following:
 docker-compose up
 ```
 
+# Under The Maintenance...
 
